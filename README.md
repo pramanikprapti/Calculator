@@ -1,4 +1,4 @@
-# Web Calculator
+# Web-based Calculator
 
 ## Project Overview
 A simple, responsive web-based calculator offering basic arithmetic operations such as addition, subtraction, multiplication, and division. Built for ease of use in any modern web browser, it delivers instant calculations with a clean interface suitable for desktops and mobile devices.
