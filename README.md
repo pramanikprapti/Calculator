@@ -1,37 +1,35 @@
-Web Calculator
-Project Overview
-A simple and user-friendly web-based calculator that performs basic arithmetic operations including addition, subtraction, multiplication, and division. Designed with a clean and responsive interface, it allows users to perform calculations efficiently across devices using any modern web browser.
+# Web Calculator
 
-Features
-Basic arithmetic operations: add, subtract, multiply, divide
+## Project Overview
+A simple, responsive web-based calculator offering basic arithmetic operations such as addition, subtraction, multiplication, and division. Built for ease of use in any modern web browser, it delivers instant calculations with a clean interface suitable for desktops and mobile devices.
 
-Clear and intuitive user interface
+## Features
+- Perform basic arithmetic: add, subtract, multiply, divide
+- Responsive design for all device sizes
+- Instant calculation results with dynamic updates
+- Intuitive user interface for seamless interaction
 
-Responsive design for desktop and mobile browsers
+## Technology Stack
+- HTML5 for markup structure
+- CSS3 for styling and responsive layouts
+- JavaScript for interactive calculation logic
 
-Instant calculation results displayed dynamically
+## Installation and Usage
+1. Clone this repository:
+2. Open the `index.html` file in any modern web browser.
+3. Use the calculator interface to perform calculations instantly.
 
-Technologies Used
-HTML5 for the structure of the web app
-
-CSS3 for styling and responsive design
-
-JavaScript for interactive calculation logic
-
-Installation and Usage
-Clone the repository:
-
-
-Open index.html in any modern web browser.
-
-Use the calculator interface to perform arithmetic calculations instantly.
-
-Folder Structure
-Folder/File	Description
-index.html	Main HTML page for the calculator
-styles.css	CSS file for styling
-script.js	JavaScript file containing calculation logic
+## Project Structure
+| File/Folder   | Description                      |
+|---------------|--------------------------------|
+| `index.html`  | Core HTML page containing UI   |
+| `styles.css`  | Stylesheet for layout and design|
+| `script.js`   | JavaScript file with calculator logic |
 
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+## License
+This project is licensed under the MIT License. 
+
+
+
