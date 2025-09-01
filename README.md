@@ -21,8 +21,7 @@ JavaScript for interactive calculation logic
 Installation and Usage
 Clone the repository:
 
-text
-git clone https://github.com/YOUR-USERNAME/web-calculator.git
+
 Open index.html in any modern web browser.
 
 Use the calculator interface to perform arithmetic calculations instantly.
